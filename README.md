@@ -8,7 +8,7 @@
 - 👨‍💻 Crafting Digital Realities through Code
 
 - ⚡ Development is the backbone <-:-> DSA breathes life into it.
-- ⚡ 300+ questions in leetcode and seeking learning in every step.
+- ⚡ 350+ questions in leetcode and seeking learning in every step.
 
 
 <h3 align="left">Seeking your connection for opportunities.</h3>
