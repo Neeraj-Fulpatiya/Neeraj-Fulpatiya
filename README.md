@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40"  alt="mongodb logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Thakur14" alt="Neeraj-Fulpatiya" /></a> </p>
 <h3 align="left">Seeking hands to work along with...  </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeraj-Fulpatiya&show_icons=true&locale=en&layout=compact" alt="Neeraj" /></p>
 
